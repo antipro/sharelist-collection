@@ -1,1 +1,4 @@
 /.pnpm-store/**
+/.idea/**
+/*/pnpm-lock.yaml
+/sharelist-client/pnpm-lock.yaml
