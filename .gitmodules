@@ -1,15 +1,15 @@
 [submodule "sharelist"]
 	path = sharelist
-	url = https://github.com/antipro/sharelist.git
+	url = ssh://git@github.com/antipro/sharelist.git
 [submodule "sharelist-client"]
 	path = sharelist-client
-	url = https://github.com/antipro/sharelist-client.git
+	url = ssh://git@github.com/antipro/sharelist-client.git
 [submodule "sharelist-cordova"]
 	path = sharelist-cordova
-	url = https://github.com/antipro/sharelist-cordova.git
+	url = ssh://git@github.com/antipro/sharelist-cordova.git
 [submodule "sharelist-electron"]
 	path = sharelist-electron
-	url = https://github.com/antipro/sharelist-electron.git
+	url = ssh://git@github.com/antipro/sharelist-electron.git
 [submodule "sharelist-server"]
 	path = sharelist-server
-	url = https://github.com/antipro/sharelist-server.git
+	url = ssh://git@github.com/antipro/sharelist-server.git
