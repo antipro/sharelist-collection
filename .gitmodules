@@ -13,3 +13,6 @@
 [submodule "sharelist-server"]
 	path = sharelist-server
 	url = ssh://git@github.com/antipro/sharelist-server.git
+[submodule "sharelist-tauri"]
+	path = sharelist-tauri
+	url = git@github.com:antipro/sharelist-tauri.git
